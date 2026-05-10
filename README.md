@@ -2,6 +2,7 @@
 
 ## Completed Certifications
 Data Science Job Simulation – Forage
+
 Deloitte Technology Job Simulation - Forage
 
 ## Skills Learned
