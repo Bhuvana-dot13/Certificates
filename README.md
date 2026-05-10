@@ -5,4 +5,3 @@ Data Science Job Simulation – Forage
 
 ## Skills Learned
 - Data Analysis
-- Problem Solving
